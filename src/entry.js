@@ -1,3 +1,3 @@
 import css from './css/index.css';
-document.getElementById("title").innerHTML = "hello HHcqit!2";
+document.getElementById("title").innerHTML = "hello HHcqit!";
 

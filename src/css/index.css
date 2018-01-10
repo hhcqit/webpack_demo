@@ -8,3 +8,10 @@ body{
     width:256px;
     height: 256px;
 }
+.tupian64{
+    background-image: url('../images/addBtn.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    width:256px;
+    height: 256px;
+}
