@@ -39,7 +39,7 @@ module.exports = {
         ]//规则
     },
     plugins: [
-        // new uglifyPlugin(),//压缩生成的代码文件，需要先引入uglify变量
+        // new uglifyPlugin(),//压缩生成的代码文件，需要先引入uglify变量 在开发情况下是无法压缩的，需要先注释掉，webpack打包时再改过来
         new htmlPlugin({
             minify:{
                 removeAttributeQuotes:true//去掉引号如<div id="a1"></div>会变成<div id=a1><div>

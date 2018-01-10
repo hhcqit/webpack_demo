@@ -72,7 +72,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__css_index_css__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__css_index_css___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__css_index_css__);
 
-document.getElementById("title").innerHTML = "hello HHcqit!";
+document.getElementById("title").innerHTML = "hello HHcqit!2";
 
 
 
@@ -116,12 +116,10 @@ exports = module.exports = __webpack_require__(3)(undefined);
 
 
 // module
-exports.push([module.i, "body{\r\n    background-color: rgb(38, 0, 255);\r\n    color:white;\r\n}\r\n#_3vxrgu81l4gtoVBcmKd7eQ{\r\n    background-image: url(" + __webpack_require__(4) + ");\r\n    width:256px;\r\n    height: 256px;\r\n}", ""]);
+exports.push([module.i, "body{\r\n    background-color: rgb(38, 0, 255);\r\n    color:white;\r\n}\r\n\r\n#tupian,.tupian{\r\n    background-image: url(" + __webpack_require__(4) + ");\r\n    width:256px;\r\n    height: 256px;\r\n}", ""]);
 
 // exports
-exports.locals = {
-	"tupian": "_3vxrgu81l4gtoVBcmKd7eQ"
-};
+
 
 /***/ }),
 /* 3 */
